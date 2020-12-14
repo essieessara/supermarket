@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1449504974 source:c:\users\royall\desktop\c projects\project\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+
+1450901043 source:c:\users\royall\desktop\c projects\supermarket\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+
+1450901043 source:e:\pdf and words\projects\c ++ projects\supermarket\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<iomanip>
+
